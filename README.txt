@@ -1,0 +1,1 @@
+This project was created using the latest version of Microsoft Visual Studio. I have compiled it on the Visual Studio Express 2012 and it worked there as well. I'm assuming you shouldn't have issues compiling. I didn't include any new files either. I only expanded on the original main file. 
